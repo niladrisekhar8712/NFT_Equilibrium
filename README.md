@@ -24,7 +24,8 @@ Users should be able to:
 ![](./screenshot.jpg)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Live Site URL: [NFT_Equilibrium](https://niladrisekhar8712.github.io/NFT_Equilibrium/)
 
 ## My process
 
